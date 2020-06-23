@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mattr-kathryn-noteful-app/precache-manifest.80b3dfc25b12f7b7b2665f6ff689877b.js"
+  "/mattr-kathryn-noteful-app/precache-manifest.bf87dc18da9f3244318a83a33cdcf4f8.js"
 );
 
 self.addEventListener('message', (event) => {

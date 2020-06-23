@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "898ca7425efd53504acc59d42071e51b",
+    "revision": "b1edb2301f6c057a7df28caf6176ee07",
     "url": "/mattr-kathryn-noteful-app/index.html"
   },
   {
-    "revision": "2e5b280f69e88c4353ee",
+    "revision": "19525be93df8bd058fe3",
     "url": "/mattr-kathryn-noteful-app/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mattr-kathryn-noteful-app/static/js/2.d9e610e2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2e5b280f69e88c4353ee",
-    "url": "/mattr-kathryn-noteful-app/static/js/main.a5acb89e.chunk.js"
+    "revision": "19525be93df8bd058fe3",
+    "url": "/mattr-kathryn-noteful-app/static/js/main.9d2a9ab9.chunk.js"
   },
   {
     "revision": "ec170ee4e62097d2c582",
