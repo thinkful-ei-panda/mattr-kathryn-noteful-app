@@ -1,3 +1,11 @@
+This project is by Matthew Rougely and Kathryn Carroll.
+
+Repo:
+https://github.com/thinkful-ei-panda/mattr-kathryn-noteful-app
+
+GH-Page:
+https://thinkful-ei-panda.github.io/mattr-kathryn-noteful-app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
