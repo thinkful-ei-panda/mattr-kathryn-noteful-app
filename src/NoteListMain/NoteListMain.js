@@ -16,7 +16,7 @@ export default function NoteListMain(props) {
         ))}
       </ul>
       <div className="NoteListMain__button-container">
-        <CircleButtom
+        <CircleButton
           tag={Link}
           to="/add-note"
           type="button"
@@ -25,7 +25,7 @@ export default function NoteListMain(props) {
           <FontAwesomeIcon icon="plus" />
           <br />
           Note
-        </CircleButtom>
+        </CircleButton>
       </div>
     </section>
   );
