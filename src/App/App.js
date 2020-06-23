@@ -1,3 +1,4 @@
+ 
 import React, {Component} from 'react';
 import {Route, Link} from 'react-router-dom';
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
@@ -54,6 +55,7 @@ class App extends Component {
   }
 
   renderMainRoutes() {
+      // eslint-disable-next-line
       const {notes, folders} = this.state;
       return (
           <>
