@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mattr-kathryn-noteful-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/mattr-kathryn-noteful-app/static/js/main.a5acb89e.chunk.js",
+    "main.js.map": "/mattr-kathryn-noteful-app/static/js/main.a5acb89e.chunk.js.map",
+    "runtime-main.js": "/mattr-kathryn-noteful-app/static/js/runtime-main.30655ba5.js",
+    "runtime-main.js.map": "/mattr-kathryn-noteful-app/static/js/runtime-main.30655ba5.js.map",
+    "static/js/2.d9e610e2.chunk.js": "/mattr-kathryn-noteful-app/static/js/2.d9e610e2.chunk.js",
+    "static/js/2.d9e610e2.chunk.js.map": "/mattr-kathryn-noteful-app/static/js/2.d9e610e2.chunk.js.map",
+    "index.html": "/mattr-kathryn-noteful-app/index.html",
+    "precache-manifest.80b3dfc25b12f7b7b2665f6ff689877b.js": "/mattr-kathryn-noteful-app/precache-manifest.80b3dfc25b12f7b7b2665f6ff689877b.js",
+    "service-worker.js": "/mattr-kathryn-noteful-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/mattr-kathryn-noteful-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d9e610e2.chunk.js.LICENSE.txt": "/mattr-kathryn-noteful-app/static/js/2.d9e610e2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30655ba5.js",
+    "static/js/2.d9e610e2.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.a5acb89e.chunk.js"
+  ]
+}

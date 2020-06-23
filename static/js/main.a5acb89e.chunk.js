@@ -1,0 +1,2 @@
+(this["webpackJsonpmattr-kathryn-noteful-app"]=this["webpackJsonpmattr-kathryn-noteful-app"]||[]).push([[0],[,,,function(t,e,n){t.exports=n(10)},,,,,function(t,e,n){},function(t,e,n){},function(t,e,n){"use strict";n.r(e);var a=n(0),r=n.n(a),c=n(2),o=n.n(c);n(8),n(9);var u=function(){return r.a.createElement("div",{className:"App"})};o.a.render(r.a.createElement(r.a.StrictMode,null,r.a.createElement(u,null)),document.getElementById("root"))}],[[3,1,2]]]);
+//# sourceMappingURL=main.a5acb89e.chunk.js.map
