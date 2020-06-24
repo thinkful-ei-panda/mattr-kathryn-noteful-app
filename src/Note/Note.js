@@ -22,7 +22,7 @@ export default function Note(props) {
           Modified
           {' '}
           <span className='Date'>
-            {format(props.modified, 'Do MMM YYYY')}
+            {format(props.modified, 'Do MM YYYY')}
           </span>
         </div>
       </div>
