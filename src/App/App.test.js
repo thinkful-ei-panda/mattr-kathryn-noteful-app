@@ -5,7 +5,7 @@ import { library } from '@fortawesome/fontawesome-svg-core'
 import {
   faPlus, faChevronLeft, faTrashAlt, faCheckDouble 
 } from '@fortawesome/free-solid-svg-icons'
-// import { render } from '@testing-library/react';
+import { render } from '@testing-library/react';
 import App from './App';
 
 library.add(faPlus, faChevronLeft, faTrashAlt, faCheckDouble)
